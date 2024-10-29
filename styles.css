@@ -13,6 +13,7 @@ body {
     overflow: hidden;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     background-color: #fff;
+    margin: 1rem;
   }
   #display {
     width: fit-content;
